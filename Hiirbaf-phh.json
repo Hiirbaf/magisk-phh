@@ -8,7 +8,7 @@
   "magisk": {
     "version": "e02e46d0",
     "versionCode": "20414",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
+    "link": "https://github.com/hiirbaf/magisk-phh/raw/master/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
     "md5": "868e6e0ba73a28c2eead8e3fb4d8b4ee"
   },
